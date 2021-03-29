@@ -1,0 +1,2 @@
+# DITASSESSMENTGUI
+A quiz program for testing knowledge of a particular topic.  A GUI based menu interacts with an array of questions.  The questions are multiple choice.  A record of correct/incorrect answers is kept, and statistics gathered about the responses.  The menu allows for users to skip and retry questions as well as resetting the whole quiz.  Multiple arrays are used to hold questions - attempted and not-attempted.  The GUI includes drop-down lists and at least one of radio buttons or text-boxes.
